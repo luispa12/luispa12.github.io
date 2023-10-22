@@ -1,6 +1,5 @@
 # The Site Configuration
 
-baseurl: '/luispa12.github.io'
 
 # Import the theme
 theme: jekyll-theme-chirpy
