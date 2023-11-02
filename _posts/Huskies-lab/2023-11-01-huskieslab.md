@@ -5,8 +5,11 @@ categories: [Guatemala, open_source, hardware, ingenieria]
 tags: [huskieslab]     # TAG names should always be lowercase
 ---
 
+![img-description](/assets/img/Logo2.png)
+_Huskies' lab_
+
 ## Que es Huskies lab?
-uskies’ lab nace de la idea de crear una empresa dedica al diseño y desarrollo de hardware en Guatemala, ya que es una area poco explorada-explotada y que tiene un potencial de crecimiento exponencial teniendo las herramientas y el conocimiento adecuado. 
+Huskies’ lab nace de la idea de crear una empresa dedica al diseño y desarrollo de hardware en Guatemala, ya que es una area poco explorada-explotada y que tiene un potencial de crecimiento exponencial teniendo las herramientas y el conocimiento adecuado. 
 
 Guatemala tiene el potencial de ser una Alemania, Japon, EE.UU, en el area tech (hardware en especifico) el problema es que nosotros por el simple hecho de ser latinoameriacanos tenemos miedo, de que sea muy dificil, de por que meternos algo tan complicado, del aca eso no se da, no sirve, pero la verdad es que si se puede.
 
