@@ -3,6 +3,11 @@ title: Huskies lab
 date: 2023-10-21 00:00:00 +8000
 categories: [Guatemala, open_source, hardware, ingenieria]
 tags: [huskieslab]     # TAG names should always be lowercase
+pin: true
+math: true
+mermaid: true
+image:
+  path: /assets/img/Logo2.png
 ---
 
 ![img-description](/assets/img/Logo2.png)
