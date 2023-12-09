@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello everyone! I'm Alfonso, an embedded hardware engineer. My main skills include the development of embedded systems, with a focus on PCB design using tools like KiCad and Altium, as well as the assembly process with through-hole and SMD components. From project conception to troubleshooting, testing, and programming, I enjoy every step of the process and embrace the challenges it presents. This is the space where I share my projects, experiences, and challenges in the fascinating world of electronics, along with occasional posts on topics of interest such as books, space, and mathematics.
+Hello everyone! I'm Alfonso, a student of Electronic and Systems Engineering. My main skills include the development of embedded systems, with a focus on PCB design using tools like KiCad and Altium, as well as the assembly process with through-hole and SMD components. From project conception to troubleshooting, testing, and programming, I enjoy every step of the process and embrace the challenges it presents. This is the space where I share my projects, experiences, and challenges in the fascinating world of electronics, along with occasional posts on topics of interest such as books, space, and mathematics.
 
 ### Acedemic Experience
 
