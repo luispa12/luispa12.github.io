@@ -42,7 +42,7 @@ Me motiva saber que acá si hay potencial de lograr lo que sea, quitar ese pensa
 
 ## Por que existe huskies lab?
 
-uskies’ Lab tiene como objetivo principal la creación de un significativo número de empleos, tanto directos como indirectos, en el sector tecnológico de Guatemala. Esta iniciativa abarca diversas disciplinas, incluyendo ingeniería de software y hardware, diseño 3D, ingeniería industrial, diseño industrial, marketing, administración y publicidad, entre otras. Reconocemos que el éxito y la rentabilidad de nuestro negocio dependen no solo de profesionales en ingeniería, sino también de una diversidad de talentos que contribuyen a su funcionamiento eficiente.
+Huskies’ Lab tiene como objetivo principal la creación de un significativo número de empleos, tanto directos como indirectos, en el sector tecnológico de Guatemala. Esta iniciativa abarca diversas disciplinas, incluyendo ingeniería de software y hardware, diseño 3D, ingeniería industrial, diseño industrial, marketing, administración y publicidad, entre otras. Reconocemos que el éxito y la rentabilidad de nuestro negocio dependen no solo de profesionales en ingeniería, sino también de una diversidad de talentos que contribuyen a su funcionamiento eficiente.
 
 Huskies’ Lab tiene la visión de desarrollar productos tecnológicos que encuentren su fundamento en problemas reales y actuales. Nuestra misión consiste en abordar desafíos específicos mediante la creación de soluciones de hardware a partir de la identificación de problemas concretos.
 
