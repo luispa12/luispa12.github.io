@@ -41,12 +41,12 @@ I'm currently in my fourth year pursuing a degree in Electronics and Computer Sc
 - **Digital and Analog Electronics:** Applied expertise in digital and analog electronics to develop and enhance projects.
 
 -->
-### Certificaciones y Cursos
+### Certifications and Courses.
 
 - Mastering Microcontroller and Embedded Driver Development, Udemy.
 - PCB design with KiCad, Udemy.
 
-### Contacto
+### Contact
 
 ¡Estoy emocionado de compartir más sobre mis proyectos y experiencias! Para ver mis proyectos, visita la sección de HOME.
 
