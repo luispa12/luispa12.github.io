@@ -47,4 +47,4 @@ I'm currently in my fourth year pursuing a degree in Electronics and Computer Sc
 - PCB design with KiCad, Udemy.
 
 ### Contact
-I am excited to share more about my projects and experiences! To view my projects, visit the HOME section.
+I am excited to share more about my projects and experiences! To view my projects, visit the HOME section to find more.
